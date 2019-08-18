@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sefa5\source\repos\vigenere_cipher\vigenere_cipher\source.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\sefa5\source\repos\vigenere_cipher\vigenere_cipher\source.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sefa5\source\repos\vigenere_cipher\vigenere_cipher\source.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Vigenere_Cipher.vcxproj -> C:\Users\sefa5\source\repos\Vigenere_Cipher\Debug\Vigenere_Cipher.exe
